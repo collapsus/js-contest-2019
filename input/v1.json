@@ -1,0 +1,11 @@
+{
+    "comment": "положение стрелок",
+    "steps": [
+        { "ticks": 36000 },
+        { "ticks": 1200 },
+        { "ticks": 150 },
+        { "button": 0, "ticks": 4 },
+        { "ticks": 9 },
+        { "ticks": 2 }
+    ]
+}

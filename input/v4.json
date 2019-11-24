@@ -1,0 +1,33 @@
+{
+    "comments": "положение стрелок",
+    "steps": [
+        {
+            "ticks": 10
+        },
+        {
+            "button": 0,
+            "ticks": 100
+        },
+        {
+            "button": 0,
+            "ticks": 100
+        },
+        {
+            "button": 0,
+            "ticks": 100
+        }
+    ],
+    "params": {
+        "time": 7813,
+        "points": [
+            {
+                "offset": 2.5,
+                "delay": 3
+            },
+            {
+                "offset": -4,
+                "delay": 5
+            }
+        ]
+    }
+}
